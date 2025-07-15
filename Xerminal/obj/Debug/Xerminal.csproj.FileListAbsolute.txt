@@ -1,0 +1,24 @@
+C:\Users\grove\Desktop\Xonsole\Xonsole\bin\Debug\Xerminal.exe.config
+C:\Users\grove\Desktop\Xonsole\Xonsole\bin\Debug\Xerminal.exe
+C:\Users\grove\Desktop\Xonsole\Xonsole\bin\Debug\Xerminal.pdb
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xerminal.csproj.AssemblyReference.cache
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xonsole.ConsoleTab.resources
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xonsole.Xerminal.resources
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xerminal.Properties.Resources.resources
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xerminal.csproj.GenerateResource.cache
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xerminal.csproj.CoreCompileInputs.cache
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xerminal.exe
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xerminal.pdb
+C:\Users\grove\Desktop\Xonsole\Xonsole\obj\Debug\Xerminal.exe.config
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\bin\Debug\Xerminal.exe.config
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\bin\Debug\Xerminal.exe
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\bin\Debug\Xerminal.pdb
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.csproj.AssemblyReference.cache
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.exe.config
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.ConsoleTab.resources
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.Xerminal.resources
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.Properties.Resources.resources
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.csproj.GenerateResource.cache
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.csproj.CoreCompileInputs.cache
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.exe
+C:\Users\grove\Desktop\Xerminal - Kopya\Xerminal\obj\Debug\Xerminal.pdb
