@@ -74,7 +74,7 @@ namespace Xerminal
             if (command == "cls")
             {
                 txtConsole.Clear();
-                return null;
+                return "";
             }
             else if (command == "xfetch")
             {
